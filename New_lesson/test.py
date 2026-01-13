@@ -1,2 +1,2 @@
-print( ' Hello world!')
-123
+print(' Hello world! ' )
+123а

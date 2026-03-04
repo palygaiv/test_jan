@@ -32,5 +32,3 @@ print(alina_file_path)
 
 with open(alina_file_path) as alina_file:
     print(alina_file.read())
-
-    ыва
